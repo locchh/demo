@@ -1,5 +1,9 @@
 # Getting Started
 
+- To build the project: `./mvnw clean install`
+- To run the application: `./mvnw spring-boot:run`
+- To access the application: `http://localhost:8080/`
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 * [Spring initializr](https://start.spring.io/)
